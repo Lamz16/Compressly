@@ -1,0 +1,6 @@
+{
+  "name": "Compressly",
+  "description": "Fast, offline-first image and PDF compressor & resizer with adaptive quality control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
